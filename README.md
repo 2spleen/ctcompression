@@ -1,5 +1,5 @@
 # ctcompression
-Code for a bespoke compression code challenge 
+Code for an original compression algorithm code challenge 
 (~20 hours spent optimizing a compression algorithm for a specific input file (financial bid/ask/trade tick data in CSV format roughly ordered by millisecond timestamps)
 
 Results:
